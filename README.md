@@ -45,7 +45,7 @@ The Streamlit application is organized into several pages:
 ## Setup and Installation
 The entire analysis, including the predictive models and clustering results, was consolidated into an interactive web application using Streamlit.
 
-It can be easily accessed and opened by using this url : [Streamlit App](https://ol-capstone-project-ziazg8daf6miapp226ea2sk.streamlit.app/)
+It can be easily accessed and opened by using this url : [Streamlit App](https://openlearn.streamlit.app/)
 
 To run this project locally, follow these steps:
 
@@ -84,5 +84,6 @@ To run this project locally, follow these steps:
 -   `cleaned_data.csv`: The processed dataset after cleaning and feature engineering, used by the models and the dashboard.
 -   `requirements.txt`: A list of all Python dependencies required to run the project.
 -   `README.md`: This file, providing an overview and instructions for the project.
+
 
 
