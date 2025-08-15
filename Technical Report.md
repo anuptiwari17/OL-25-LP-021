@@ -91,7 +91,7 @@ A thorough EDA was conducted to uncover patterns and relationships within the da
 
 The entire analysis, including the predictive models and clustering results, was consolidated into an interactive web application using **Streamlit**.
 
--  It can be easily accessed and opened by using this url : [Streamlit App](https://ol-capstone-project-ziazg8daf6miapp226ea2sk.streamlit.app/)
+-  It can be easily accessed and opened by using this url : [Streamlit App](https://openlearn.streamlit.app/)
 
 ## 9. Business Recommendations
 
@@ -112,4 +112,5 @@ Based on the analysis, the following recommendations are proposed for tech compa
     -   **Analyze Recent Data**: Replicating the analysis with a more current dataset would provide more relevant insights.
     -   **Analyze Text Data**: The 'comments' column could be analyzed using NLP techniques to extract qualitative insights.
     -   **Causal Inference**: Conduct studies to determine the causal impact of specific policy interventions on employee well-being.
+
 
