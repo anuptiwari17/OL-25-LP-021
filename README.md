@@ -17,7 +17,7 @@ The primary goal of this project is to create an interactive dashboard that allo
 
 ## Dataset
 
-The project uses the **OSMI Mental Health in Tech Survey** dataset, which is publicly available on [Kaggle](https://openlearn.streamlit.app/). This dataset contains over 1,200 responses from tech employees, covering topics like:
+The project uses the **OSMI Mental Health in Tech Survey** dataset, which is publicly available on [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey). This dataset contains over 1,200 responses from tech employees, covering topics like:
 
 -   Demographics (Age, Gender, Country)
 -   Workplace environment (company size, remote work, tech company status)
@@ -84,6 +84,7 @@ To run this project locally, follow these steps:
 -   `cleaned_data.csv`: The processed dataset after cleaning and feature engineering, used by the models and the dashboard.
 -   `requirements.txt`: A list of all Python dependencies required to run the project.
 -   `README.md`: This file, providing an overview and instructions for the project.
+
 
 
 
